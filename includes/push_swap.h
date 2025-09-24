@@ -6,7 +6,7 @@
 /*   By: tdharmar <tdharmar@student.42bangkok.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/09/23 12:27:51 by tdharmar          #+#    #+#             */
-/*   Updated: 2025/09/23 14:54:16 by tdharmar         ###   ########.fr       */
+/*   Updated: 2025/09/23 15:37:49 by tdharmar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,13 +26,13 @@ typedef struct s_swap
 }			t_swap;
 
 
+
 #endif
 
 
 
 
 /*
-
 When 3 random number
 
 #Case1
